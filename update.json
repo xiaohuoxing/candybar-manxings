@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.3.5",
-  "latestVersionCode":35,
+  "latestVersion": "1.3.6",
+  "latestVersionCode":36,
   "disableRequest": {
-    "below": 35
+    "below": 36
   },
   "url": "http://m.cshbl.com/azrj/11787.html",
   "releaseNotes": [
